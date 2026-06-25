@@ -69,34 +69,99 @@ I'm currently pursuing a **Diploma in Engineering (Computer Science & Technology
 
 # 💼 Experience
 
-### 🚀 Founder & Chief Executive Officer — Piixen
-**Nov 2025 – Present • Dhaka, Bangladesh (Hybrid)**
+<div align="center">
 
-- Lead company strategy and growth
-- Develop modern websites and SaaS products
-- Manage branding, product planning and client projects
-- Deliver business-focused digital solutions
+✨ **Building products • Leading teams • Creating digital experiences**
 
-### 💻 IT Executive — JAZA MEPTECH SOLUTIONS
-**Sep 2024 – Mar 2026 • Hybrid**
+</div>
 
-- IT operations and technical support
-- Website management
-- Infrastructure and systems support
-- Business technology solutions
+---
 
-### 👔 Chief Executive Officer — Artistic Group BD
-**Jan 2022 – Dec 2025**
+### 🚀 Founder & Chief Executive Officer | **Piixen**
+> **📅 Nov 2025 – Present** &nbsp;•&nbsp; **📍 Dhaka, Bangladesh** &nbsp;•&nbsp; **💼 Hybrid**
 
-- Managed e-commerce operations
-- Led branding and digital marketing
-- Built and maintained business websites
+<p>
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Current-success?style=for-the-badge" />
+</p>
 
-### 🌐 Web Developer — Purple Dinosaur
-**Oct 2024 – Dec 2024**
+- 🚀 **Leading company strategy, innovation, and long-term growth**
+- 💻 **Building modern websites, SaaS platforms, and web applications**
+- 🎨 **Managing branding, UI/UX, and digital product development**
+- 🤝 **Working with clients to deliver scalable business solutions**
 
-### 🌐 Web Developer — F1 Freak BD
-**Aug 2024 – Oct 2024**
+---
+
+### 💻 IT Executive | **JAZA MEPTECH SOLUTIONS**
+> **📅 Sep 2024 – Mar 2026** &nbsp;•&nbsp; **💼 Hybrid**
+
+<p>
+  <img src="https://img.shields.io/badge/Role-IT%20Executive-007ACC?style=for-the-badge" />
+</p>
+
+- 🖥️ **Managed IT infrastructure and daily technical operations**
+- 🌐 **Maintained company websites and digital platforms**
+- 🛠️ **Provided system administration and technical support**
+- ⚡ **Implemented technology solutions to improve business efficiency**
+
+---
+
+### 👔 Chief Executive Officer | **Artistic Group BD**
+> **📅 Jan 2022 – Dec 2025**
+
+<p>
+  <img src="https://img.shields.io/badge/Role-CEO-orange?style=for-the-badge" />
+</p>
+
+- 📈 **Directed business strategy and operations**
+- 🛒 **Managed e-commerce platforms and online sales**
+- 🎯 **Led branding, marketing, and customer engagement**
+- 🌍 **Designed, developed, and maintained business websites**
+
+---
+
+### 🌐 Web Developer | **Purple Dinosaur**
+> **📅 Oct 2024 – Dec 2024**
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-0A66C2?style=for-the-badge" />
+</p>
+
+- 💻 **Developed responsive and modern web solutions**
+- ⚙️ **Optimized website performance and user experience**
+- 🎨 **Implemented clean UI with modern development practices**
+
+---
+
+### 🌐 Web Developer | **F1 Freak BD**
+> **📅 Aug 2024 – Oct 2024**
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-red?style=for-the-badge" />
+</p>
+
+- 🏎️ **Built and maintained an e-commerce website**
+- 📱 **Created responsive pages and optimized performance**
+- 🛍️ **Enhanced user experience and online shopping workflow**
+
+---
+
+<div align="center">
+
+### 🚀 Career Timeline
+
+```text
+2022 ─────────────── CEO • Artistic Group BD
+        │
+2024 ───┼── Web Developer • F1 Freak BD
+        ├── Web Developer • Purple Dinosaur
+        └── IT Executive • JAZA MEPTECH SOLUTIONS
+2025 ─── Founder & CEO • Piixen ⭐
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Creating+SaaS+Products;Leading+Digital+Innovation;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
