@@ -1,1 +1,0 @@
-Place custom banner.svg, footer.svg and images here.
