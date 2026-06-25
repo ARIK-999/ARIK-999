@@ -1,0 +1,10 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Configure GitHub Metrics action with your token."
